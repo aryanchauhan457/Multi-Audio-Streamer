@@ -1,4 +1,3 @@
-````markdown
 # 🎧 Multi Audio Streamer
 
 **Stream your PC audio to multiple devices simultaneously — wirelessly over Wi-Fi**
