@@ -7,8 +7,8 @@ import hashlib
 
 
 # Replace these with the SHA-256 hex digests of the authorized values
-AUTHORIZED_MB_HASH = "b2eae435f102c5a3391ab3be66c8b4015190f2d3974037bf14ecf9369bf3daa8"
-AUTHORIZED_UUID_HASH = "1cc599dfc741c17acec06ed68858c026b60c1f93f3fa8131975e61b075f14a28"
+AUTHORIZED_MB_HASH = "value-1"
+AUTHORIZED_UUID_HASH = "value-2"
 
 def _try_wmi():
     try:
@@ -94,3 +94,4 @@ if __name__ == "__main__":
         print("Access granted.")
     else:
         print("Unauthorized machine.")
+
